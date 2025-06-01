@@ -1,11 +1,10 @@
 # 👩‍💻 Fadeela Naqash
-
-Hi there! 👋 I'm **Fadeela Naqash**, aspiring **Secure Java Full-Stack Developer** dedicated to building robust, secure, and high-performance web applications.
+  Aspiring Secure Java Full-Stack Developer | Passionate about building reliable and scalable web apps
 
 ## 🔍 About Me
 
 - 🎓 I hold a **Bachelor’s degree in Information Technology** and will soon be **pursuing a Master of Computer Applications (MCA)** to further strengthen my skills in web development and computer science.
-- 💡 I’m passionate about **Secure Java Full-Stack Web Development** with a strong focus on writing clean, efficient, and secure code.
+- 💡  I’m passionate about secure full-stack development because I believe in creating web applications that protect users' data and provide seamless experiences.
 - 🌱 Currently, I’m learning to build a custom **Java HTTP server** to integrate frontend and backend—gaining hands-on experience in:
   - **Frontend**: HTML, CSS, JavaScript
   - **Backend**: Java (OOPs), JDBC, MySQL
@@ -13,18 +12,24 @@ Hi there! 👋 I'm **Fadeela Naqash**, aspiring **Secure Java Full-Stack Develop
 
 ## 🚀 Tech Stack
 
-- **Languages**: Java, JavaScript, SQL
-- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript (Vanilla)
-- **Backend**: Core Java(basics, oops, dsa), Advanced Java(JDBC)
-- **Database**: MySQL, MS SQL Server
-- **Tools**: Git, GitHub, VS Code
+- **Frontend**:
+- HTML5, CSS3, Bootstrap, JavaScript (Vanilla) - building interactive UIs
+- **Backend**: Core Java(Basics, OOPs, DSA), Exception Handling, Advanced Java(JDBC) - server-side logic and data management
+- **Database**: MySQL, MS SQL Server (RDBMS)
+- **Tools**: npm, Git, GitHub, VS Code, IntelliJ IDEA
+- **Random Exploration**: Python(basics, oops), C(basics), C++(basics)
+
+## Skills to learn next**:
+ - **Frontend**:- Web accessibility > Responsiveness > Figma > Advanced Javascript (Async js, es6, fetch api, modularization, Object Property Access, DRY principles) > React > Projects
+ - **Backend**:- File Handling > Multithreading > Request and Response Cycle > Spring > Spring Boot > Projects
+ - **Database**:- MongoDB (Document Data Model) > Projects
+ - Then, I plan to build framework-based projects using Spring Boot and React to gain solid full-stack experience, followed by diving into cybersecurity.
 
 ## 💬 Let’s Connect
 
 - 📫 Email: [fadeela.naqash76@gmail.com](mailto:fadeela.naqash76@gmail.com)
 - 😄 Pronouns: **She/Her**
 
----
 
 ## 🎯 My GitHub Goals
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fadeela Naqash.
 - 👀 I’m interested in Secure Java Fullstack Development.
-- 🌱 I’m currently learning Java Frontend and Backend tools.
+- 🌱 I’m currently learning Java frontend and backend tools.
 - 📫 How to reach me: fadeela.naqash76@gmail.com
 - 😄 Pronouns: she/her

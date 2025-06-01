@@ -26,7 +26,7 @@ I’ve built six standalone frontend projects using HTML, CSS, JavaScript (Vanil
 Developed three backend projects integrating Java (OOPs), JDBC, and MySQL. These include management systems such as<br>
 1. Hospital Management System – Admin can add and view patient-doctor records via JDBC and MySQL.<br>
 🔗 GitHub Repo - https://github.com/Fadeela76/hospital_management_system <br>
-2. Banking Management System – Console app simulating bank account creation, login, and transactions.,br>
+2. Banking Management System – Console app simulating bank account creation, login, and transactions. <br>
 🔗 GitHub Repo - https://github.com/Fadeela76/banking_management_system <br>
 3. Hotel Reservation System – Book and manage hotel room reservations with backend MySQL storage. <br>
 🔗 GitHub Repo - https://github.com/Fadeela76/hotel_reservation_system

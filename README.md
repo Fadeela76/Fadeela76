@@ -23,7 +23,7 @@ Vanilla Frontend Projects (6):
 I’ve built six standalone frontend projects using HTML, CSS, JavaScript (Vanilla), and Bootstrap. These focus on user interaction, and clean UI/UX without relying on frameworks—helping me master core frontend skills.
 
 JDBC-Based Backend Projects (3):
-Developed three backend projects integrating Java (OOPs), JDBC, and MySQL. These include management systems such as Hospital Management System, Banking Management System, and Hotel Reservation System. They emphasize secure CRUD operations, database connectivity, and backend logic implementation.
+Developed three backend projects integrating Java (OOPs), JDBC, and MySQL. These include management systems such as Hospital Management System (https://github.com/Fadeela76/hospital_management_system), Banking Management System (https://github.com/Fadeela76/banking_management_system), and Hotel Reservation System (https://github.com/Fadeela76/hotel_reservation_system). They emphasize secure CRUD operations, database connectivity, and backend logic implementation.
 
 ## 🛠 Skills to Learn Next  
 - **Frontend:** Web Accessibility, Responsiveness, Figma, Advanced JavaScript (Async, ES6, Fetch API, Modularization), React, Projects  

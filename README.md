@@ -16,6 +16,15 @@ All with vanilla Java to gain deep conceptual clarity.
 - **Tools:** npm, Git, GitHub, VS Code, IntelliJ IDEA  
 - **Exploring:** Python (Basics, OOPs), C (Basics), C++ (Basics)
 
+## 📂 Projects Summary
+My GitHub showcases a hands-on journey into vanilla Java full-stack development through a range of practical projects:
+
+Vanilla Frontend Projects (6):
+I’ve built six standalone frontend projects using HTML, CSS, JavaScript (Vanilla), and Bootstrap. These focus on user interaction, and clean UI/UX without relying on frameworks—helping me master core frontend skills.
+
+JDBC-Based Backend Projects (3):
+Developed three backend projects integrating Java (OOPs), JDBC, and MySQL. These include management systems such as Hospital Management System, Banking Management System, and Hotel Reservation System. They emphasize secure CRUD operations, database connectivity, and backend logic implementation.
+
 ## 🛠 Skills to Learn Next  
 - **Frontend:** Web Accessibility, Responsiveness, Figma, Advanced JavaScript (Async, ES6, Fetch API, Modularization), React, Projects  
 - **Backend:** File Handling, Multithreading, HTTP Request & Response Cycle, Spring, Spring Boot, Projects  

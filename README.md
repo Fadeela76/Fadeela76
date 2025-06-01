@@ -20,7 +20,7 @@ All with vanilla Java to gain deep conceptual clarity.
 My GitHub showcases a hands-on journey into vanilla Java full-stack development through a range of practical projects:
 
 - Vanilla Frontend Projects (6):
-I’ve built six standalone frontend projects using HTML, CSS, JavaScript (Vanilla), and Bootstrap. These focus on user interaction, and clean UI/UX without relying on frameworks—helping me master core frontend skills:<br>1)&nbsp;<a href="lustrous-pony-b529c0.netlify.app/">Tic-Tac-Toe</a><br>2)&nbsp;<a href="helpful-sprite-519669.netlify.app/">Currency Converter</a>
+I’ve built six standalone frontend projects using HTML, CSS, JavaScript (Vanilla), and Bootstrap. These focus on user interaction, and clean UI/UX without relying on frameworks—helping me master core frontend skills:<br>1)&nbsp;<a href="lustrous-pony-b529c0.netlify.app/">Tic-Tac-Toe</a><br>2)&nbsp;<a href="helpful-sprite-519669.netlify.app/" target="_blank">Currency Converter</a>
 
 - JDBC-Based Backend Projects (3):
 Developed three backend projects integrating Java (OOPs), JDBC, and MySQL. These include management systems such as<br>

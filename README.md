@@ -12,18 +12,34 @@
 
 ## 🚀 Tech Stack
 
-- **Frontend**:
-- HTML5, CSS3, Bootstrap, JavaScript (Vanilla) - building interactive UIs
+- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript (Vanilla) - building interactive UIs
 - **Backend**: Core Java(Basics, OOPs, DSA), Exception Handling, Advanced Java(JDBC) - server-side logic and data management
 - **Database**: MySQL, MS SQL Server (RDBMS)
 - **Tools**: npm, Git, GitHub, VS Code, IntelliJ IDEA
 - **Random Exploration**: Python(basics, oops), C(basics), C++(basics)
 
+## Projects
+
+
 ## Skills to learn next**:
- - **Frontend**:- Web accessibility > Responsiveness > Figma > Advanced Javascript (Async js, es6, fetch api, modularization, Object Property Access, DRY principles) > React > Projects
- - **Backend**:- File Handling > Multithreading > Request and Response Cycle > Spring > Spring Boot > Projects
- - **Database**:- MongoDB (Document Data Model) > Projects
- - Then, I plan to build framework-based projects using Spring Boot and React to gain solid full-stack experience, followed by diving into cybersecurity.
+ - **Frontend**:-
+   - Web accessibility
+   - Responsiveness
+   - Figma
+   - Advanced Javascript (Async js, es6, fetch api, modularization, Object Property Access, DRY principles)
+   - React
+   - Projects
+ - **Backend**:-
+   - File Handling
+   - Multithreading
+   - Request and Response Cycle
+   - Spring
+   - Spring Boot
+   - Projects
+ - **Database**:-
+   - MongoDB (Document Data Model)
+   - Projects
+ - **Then, I plan to build framework-based projects using Spring Boot and React to gain solid full-stack experience, followed by diving into cybersecurity**.
 
 ## 💬 Let’s Connect
 

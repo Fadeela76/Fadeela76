@@ -6,7 +6,6 @@ Hi there! 👋 I'm **Fadeela Naqash**, aspiring **Secure Java Full-Stack Develop
 
 - 🎓 I hold a **Bachelor’s degree in Information Technology** and will soon be **pursuing a Master of Computer Applications (MCA)** to further strengthen my skills in web development and computer science.
 - 💡 I’m passionate about **Secure Java Full-Stack Web Development** with a strong focus on writing clean, efficient, and secure code.
-- 🚀 My long-term goal is to become a confident and skilled **Secure Full-Stack Java Developer**, proficient in both secure frontend and secure backend technologies.
 - 🌱 Currently, I’m learning to build a custom **Java HTTP server** to integrate frontend and backend—gaining hands-on experience in:
   - **Frontend**: HTML, CSS, JavaScript
   - **Backend**: Java (OOPs), JDBC, MySQL

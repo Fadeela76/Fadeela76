@@ -21,10 +21,6 @@ All with vanilla Java to gain deep conceptual clarity.
 - **Backend:** File Handling, Multithreading, HTTP Request & Response Cycle, Spring, Spring Boot, Projects  
 - **Database:** MongoDB (Document Data Model), Projects
 
-## 🛠 Projects  
-- **Custom Java HTTP Server:** Backend integration using Java, JDBC, and MySQL. Learned HTTP request handling.  
-- **Dental Clinic Management System:** Full-stack app managing patient and doctor data with Java, MySQL, and frontend tech.
-
 ## 💬 Let’s Connect  
 📫 Email: [fadeela.naqash76@gmail.com](mailto:fadeela.naqash76@gmail.com)  
 😄 Pronouns: She/Her

@@ -35,6 +35,8 @@ Developed three backend projects integrating Java (OOPs), JDBC, and MySQL. These
 - **Frontend:** Web Accessibility, Responsiveness, Figma, Advanced JavaScript (Async, ES6, Fetch API, Modularization), React, Projects  
 - **Backend:** File Handling, Multithreading, HTTP Request & Response Cycle, Spring, Spring Boot, Projects  
 - **Database:** MongoDB (Document Data Model), Projects
+- "After gaining confidence in web development with the Java stack, I will deep dive into cybersecurity, focusing on Application Security (AppSec) to strengthen my understanding of secure coding practices and
+   vulnerabilities in web applications."
 
 ## 💬 Let’s Connect  
 📫 Email: [fadeela.naqash76@gmail.com](mailto:fadeela.naqash76@gmail.com)  

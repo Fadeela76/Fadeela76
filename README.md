@@ -23,12 +23,12 @@ My GitHub showcases a hands-on journey into vanilla Java full-stack development 
 I’ve built six standalone frontend projects using HTML, CSS, JavaScript (Vanilla), and Bootstrap. These focus on user interaction, and clean UI/UX without relying on frameworks—helping me master core frontend skills:<br>1)&nbsp;<a href="lustrous-pony-b529c0.netlify.app/">Tic-Tac-Toe</a><br>2)&nbsp;<a href="helpful-sprite-519669.netlify.app/">Currency Converter</a>
 
 - JDBC-Based Backend Projects (3):
-Developed three backend projects integrating Java (OOPs), JDBC, and MySQL. These include management systems such as 
-Hospital Management System – Admin can add and view patient-doctor records via JDBC and MySQL.
-🔗 GitHub Repo - https://github.com/Fadeela76/hospital_management_system
-Banking Management System – Console app simulating bank account creation, login, and transactions.
-🔗 GitHub Repo - https://github.com/Fadeela76/banking_management_system
-Hotel Reservation System – Book and manage hotel room reservations with backend MySQL storage.
+Developed three backend projects integrating Java (OOPs), JDBC, and MySQL. These include management systems such as<br>
+1. Hospital Management System – Admin can add and view patient-doctor records via JDBC and MySQL.<br>
+🔗 GitHub Repo - https://github.com/Fadeela76/hospital_management_system <br>
+2. Banking Management System – Console app simulating bank account creation, login, and transactions.,br>
+🔗 GitHub Repo - https://github.com/Fadeela76/banking_management_system <br>
+3. Hotel Reservation System – Book and manage hotel room reservations with backend MySQL storage. <br>
 🔗 GitHub Repo - https://github.com/Fadeela76/hotel_reservation_system
 
 ## 🛠 Skills to Learn Next  

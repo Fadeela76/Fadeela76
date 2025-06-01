@@ -15,15 +15,9 @@ Hi there! 👋 I'm **Fadeela Naqash**, aspiring **Secure Java Full-Stack Develop
 
 - **Languages**: Java, JavaScript, SQL
 - **Frontend**: HTML5, CSS3, Bootstrap, JavaScript (Vanilla)
-- **Backend**: Core Java, JDBC
-- **Database**: MySQL
+- **Backend**: Core Java(basics, oops, dsa), Advanced Java(JDBC)
+- **Database**: MySQL, MS SQL Server
 - **Tools**: Git, GitHub, VS Code
-
-## 🧠 What I’m Currently Working On
-
-- Building a full-stack project using a custom Java HTTP server for frontend-backend communication.
-- Strengthening my fundamentals before transitioning to frameworks like **Spring Boot** and **React**.
-- Continuously improving my GitHub projects for better readability, security, and scalability.
 
 ## 💬 Let’s Connect
 

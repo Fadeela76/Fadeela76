@@ -1,6 +1,6 @@
 # 👩‍💻 Fadeela Naqash
 
-Hi there! 👋 I'm **Fadeela Naqash**, a strong and passionate aspiring **Secure Java Full-Stack Developer** dedicated to building robust, secure, and high-performance web applications.
+Hi there! 👋 I'm **Fadeela Naqash**, aspiring **Secure Java Full-Stack Developer** dedicated to building robust, secure, and high-performance web applications.
 
 ## 🔍 About Me
 
@@ -23,10 +23,8 @@ Hi there! 👋 I'm **Fadeela Naqash**, a strong and passionate aspiring **Secure
 ## 🧠 What I’m Currently Working On
 
 - Building a full-stack project using a custom Java HTTP server for frontend-backend communication.
-- Strengthening my fundamentals in Java OOPs, DSA, and JDBC before transitioning to frameworks like **Spring Boot** and **React**.
+- Strengthening my fundamentals before transitioning to frameworks like **Spring Boot** and **React**.
 - Continuously improving my GitHub projects for better readability, security, and scalability.
-
----
 
 ## 💬 Let’s Connect
 
@@ -40,9 +38,9 @@ Hi there! 👋 I'm **Fadeela Naqash**, a strong and passionate aspiring **Secure
 - ✅ Convert console-based Java programs into fully functional web apps.
 - ✅ Apply security best practices in backend development.
 - ⏳ Learn Spring Boot and React to build professional-grade full-stack applications.
-- 🚀 Grow into a confident and competent secure full-stack developer.
+- 🚀 Grow into a confident and competent secure java full-stack developer.
 
 ---
 
 Thanks for visiting my profile! 😊  
-Feel free to check out my projects and follow my journey as I grow in the world of secure web development.
+Feel free to check out my projects.

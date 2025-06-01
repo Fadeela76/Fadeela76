@@ -31,7 +31,7 @@ All with vanilla Java to gain deep conceptual clarity.
 - Learn Spring Boot & React for professional full-stack development  
 - Grow into a confident, secure Java full-stack developer  
 
----
 
-Thanks for visiting! I’m open to connect and collaborate. 😊  
+
+I’m open to connect and collaborate. 😊  
 Feel free to check out my projects.

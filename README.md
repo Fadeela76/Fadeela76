@@ -38,9 +38,6 @@ Developed three backend projects integrating Java (OOPs), JDBC, and MySQL. These
 - After gaining confidence in web development using the Java stack, I will deep dive into cybersecurity—specifically Application Security (AppSec)—to deepen my understanding of secure coding practices and
   common web application vulnerabilities.
 
-## 💬 Let’s Connect  
-📫 Email: [fadeela.naqash76@gmail.com](mailto:fadeela.naqash76@gmail.com)  
-😄 Pronouns: She/Her
 
 ## 🎯 GitHub Goals  
 - Convert console Java programs into fully functional web apps  

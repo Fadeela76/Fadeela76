@@ -13,7 +13,7 @@ All with vanilla Java to gain deep conceptual clarity.
 - **Frontend:** HTML5, CSS3, Bootstrap, Vanilla JavaScript — building responsive, interactive user interfaces  
 - **Backend:** Core Java (Basics, OOPs, DSA), Exception Handling, Advanced Java (JDBC) — server-side programming and database connectivity  
 - **Database:** MySQL, MS SQL Server (RDBMS)  
-- **Tools:** npm, Git, GitHub, VS Code, IntelliJ IDEA  
+- **Tools:** npm, Git, GitHub, VS Code, IntelliJ IDEA, ChatGPT.
 - **Exploring:** Python (Basics, OOPs), C (Basics), C++ (Basics)
 
 ## 📂 Projects Summary

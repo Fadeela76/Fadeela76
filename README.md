@@ -2,7 +2,7 @@
 **Aspiring Secure Java Full-Stack Developer | Passionate about building reliable and scalable web apps**
 
 ## 🔍 About Me  
-🎓 Bachelor’s in Information Technology, soon pursuing MCA to deepen my web dev and CS knowledge.  
+🎓 Bachelor’s in Information Technology, currently pursuing MCA to deepen my web dev and CS knowledge.  
 💡 Passionate about secure full-stack web development — I aim to build web apps that are robust, secure, and user-friendly.  
 🌱 Currently building a custom Java HTTP server to integrate frontend and backend with:  
 - Frontend: HTML, CSS, JavaScript  
